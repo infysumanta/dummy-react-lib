@@ -46,5 +46,10 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "description": "",
+  "keywords": [],
+  "author": "Sumanta <sumantablog@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:infysumanta/dummy-react-lib.git"
 }
