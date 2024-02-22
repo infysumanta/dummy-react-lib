@@ -1,0 +1,7 @@
+node_modules
+public
+src
+.eslintrc.js
+*.html
+.github
+.changeset
